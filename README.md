@@ -2,7 +2,7 @@
 So gys...This is the most demanded Certification of all the time and very less people provide it.. So i have litterly compleated all the modules and given the quizes of Google Certification exam that are uploaded here... Hope this Answers Help you out..   ENJOY !!
 
 Click on these direct links or Goto folder and check by yourself.😈
-
+<h2><i> Fundamentals of Digital Marketing Answers </i></h2>
 
 Module 1 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/The%20Online%20Opportunity.jpeg"> The Online Opportunity </a> <br>
 Module 2 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Your%20first%20steps%20in%20online%20success.jpeg"> Your first steps in online success </a><br>
