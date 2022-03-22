@@ -30,6 +30,6 @@ Module 23 : <a href="https://github.com/amaneleven/Google-Certifications/blob/ma
 Module 24 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Build%20your%20online%20shop.png">Build your online shop </a> <br>
 Module 25 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Sell%20more%20online.png">Sell more online </a> <br>
 Module 26 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Expand%20internationally.png">Expand internationally</a> <br>
-<b>FINAL EXAM Source 1: <a href="#"> Answers Of Final Exam Source 1  </b></a> <br>
-<b>FINAL EXAM Source 2: <a href="#"> Answers Of Final Exam Source 2 </b></a> <br>
+<b>FINAL EXAM Source 1: <a href="https://mega.nz/file/sp90VAjI#VVeMTxQyBs-0INRX0BIs8rPwruD7s7q2nLV_Lul7qcQ"> Answers Of Final Exam Source 1  </b></a> <br>
+<b>FINAL EXAM Source 2: <a href="https://mega.nz/file/4w82xAxI#y0re2Mv2KT1qQz7JsESaaR5XCzpw0aqAdEm4BTOnLss"> Answers Of Final Exam Source 2 </b></a> <br>
 
