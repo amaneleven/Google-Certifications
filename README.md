@@ -24,7 +24,12 @@ Module 17 : <a href="https://github.com/amaneleven/Google-Certifications/blob/ma
 Module 18 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Advertise%20on%20other%20websites.png">Advertise on other websites </a> <br>
 Module 19 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Deep%20dive%20into%20display%20advertising.png">Deep dive into display advertising </a> <br>
 Module 20 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Make%20the%20most%20of%20video.png">Make the most of video </a> <br>
-Module 5 : <a href="">  </a> <br>
-Module 5 : <a href="">  </a> <br>
-Module 5 : <a href="">  </a> <br>
-Module 5 : <a href="">  </a> <br>
+Module 21 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Get%20started%20with%20analytics.png">Get started with analytics </a> <br>
+Module 22 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Find%20success%20with%20analytics.png">Find success with analytics </a> <br>
+Module 23 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Turn%20data%20into%20insights.png">Turn data into insights </a> <br>
+Module 24 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Build%20your%20online%20shop.png">Build your online shop </a> <br>
+Module 25 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Sell%20more%20online.png">Sell more online </a> <br>
+Module 26 : <a href="https://github.com/amaneleven/Google-Certifications/blob/main/Fundamentals%20of%20Digital%20Marketing/Expand%20internationally.png">Expand internationally</a> <br>
+<b>FINAL EXAM Source 1: <a href="#"> Answers Of Final Exam Source 1  </b></a> <br>
+<b>FINAL EXAM Source 2: <a href="#"> Answers Of Final Exam Source 2 </b></a> <br>
+
